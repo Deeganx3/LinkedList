@@ -49,4 +49,4 @@ This repository contain a `C Modular` implemantation of LinkedList in `C` like v
 
     
 #### TODO
-* Describe all the methode 
+* Describe all the methods 
